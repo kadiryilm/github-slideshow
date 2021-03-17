@@ -2,5 +2,5 @@
 layout: slide
 title: "Tekrardan hoş geldin ağam!"
 ---
-Nasılsın , eyisin ?
+Naptın , nettin ?
 Use the left arrow to go back!
